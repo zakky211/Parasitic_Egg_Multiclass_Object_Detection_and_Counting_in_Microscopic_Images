@@ -1,0 +1,16 @@
+#test: test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+
+names:
+  0: Ascaris lumbricoides
+  1: Capillaria philippinensis
+  2: Enterobius vermicularis
+  3: Fasciolopsis buski
+  4: Hookworm egg
+  5: Hymenolepis diminuta
+  6: Hymenolepis nana
+  7: Opisthorchis viverrine
+  8: Paragonimus spp
+  9: Taenia spp. egg
+  10: Trichuris trichiuras

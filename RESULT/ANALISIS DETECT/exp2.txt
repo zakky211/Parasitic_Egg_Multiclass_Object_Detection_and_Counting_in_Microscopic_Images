@@ -1,0 +1,186 @@
+0014 Tidak terdeteksi
+0055 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Hymenolepis nana
+0057 Klasifikasi, Lokalisasi. Yang di deteksi double, Fasciolopsis buski dan Hymenolepis diminuta, sedangkan real Fasciolopsis buski saja
+0060 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0082 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0089 Klasifikasi. Yang di deteksi Hymenolepis nana sedangkan yang real Taenia spp. egg
+0090 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0091 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0094 Klasifikasi. Yang di deteksi Hymenolepis nana sedangkan yang real Taenia spp. egg
+0097 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0098 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+0114 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0118 Tidak terdeteksi 
+0136 Tidak terdeteksi
+0158 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0168 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0172 Tidak terdeteksi
+0201 Tidak terdeteksi
+0216 Klasifikasi.Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0220 Klasifikasi.Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0233 Tidak terdeteksi 
+0242 Klasifikasi.Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0248 Tidak terdeteksi
+0249 Klasifikasi, Lokalisasi. Yang di deteksi double, Paragonimus spp dan Hymenolepis diminuta, sedangkan real Hymenolepis nana
+0263 Klasifikasi.Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0266 Tidak terdeteksi
+0268 Klasifikasi.Yang di deteksi Capillaria philippinensis sedangkan yang real Paragonimus spp
+0272 Klasifikasi.Yang di deteksi Hymenolepis diminuta sedangkan yang real Paragonimus spp
+0276 Tidak terdeteksi
+0289 Tidak terdeteksi
+0300 Klasifikasi, Lokalisasi. Yang di deteksi double berdempet Hymenolepis diminuta dengan Enterobius vermicularis , sedangkan real hanya Fasciolopsis buski
+0307 Lokalisasi. Yang di deteksi double,Opisthorchis viverrine dgn Enterobius vermicularis, sedangkan real hanya Opisthorchis viverrine
+0311 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0334 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0388 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0390 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0392 Tidak terdeteksi
+0395 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides 
+0400 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0405 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras
+0425 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+0430 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0443 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+0455 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides 
+0471 Lokalisasi.  Yang di deteksi double,Opisthorchis viverrine dgn Hymenolepis nana, sedangkan real hanya Hymenolepis nana
+0480 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras
+0494 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+0515 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0532 Tidak terdeteksi
+0535 Tidak terdeteksi
+0545 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0572 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0580 Lokalisasi. Yang di deteksi double,Fasciolopsis buski dgn Enterobius vermicularis, sedangkan real hanya Enterobius vermicularis
+0585 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0603 Klasifikasi. Yang di deteksi Ascaris lumbricoides sedangkan yang real Hookworm egg
+0608 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0618 Lokalisasi. Yang di deteksi double, Hymenolepis diminuta dgn Paragonimus spp, sedangkan real hanya Ascaris lumbricoides
+0620 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Paragonimus spp
+0626 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0655 Klasifikasi. Yang di deteksi double, Ascaris lumbricoides dgn Paragonimus spp, sedangkan real hanya Ascaris lumbricoides
+0666 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0685 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Paragonimus spp
+0705 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+0710 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana
+0717 Klasifikasi. Yang di deteksiParagonimus spp sedangkan yang real Ascaris lumbricoides
+0776 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras
+0788 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+0792 Tidak terdeteksi
+0808 Klasifikasi. Yang di deteksi double, Hymenolepis diminuta dgn Paragonimus spp, sedangkan real hanya Ascaris lumbricoides
+0809 Lokalisasi. Yang di deteksi double,Opisthorchis viverrine dgn Enterobius vermicularis, sedangkan real hanya Ascaris lumbricoides
+0813 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Opisthorchis viverrine
+0816 Tidak terdeteksi
+0823 Lokalisasi.  Yang di deteksi triple,Enterobius vermicularis, Hymenolepis diminuta dgn Paragonimus spp, sedangkan real hanya Paragonimus spp
+0848 Lokalisasi.  Yang di deteksi triple, Hymenolepis diminuta dan Hymenolepis diminuta dgn Ascaris lumbricoides, sedangkan real hanya Ascaris lumbricoides dan Ascaris lumbricoides
+0852 Klasifikasi. Yang di deteksi Enterobius vermicularis sedangkan yang real Hymenolepis nana 
+0875 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+0891 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+0898 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+0902 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+0903 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0932 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0934 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+0939 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+0948 Tidak terdeteksi
+0965 Klasifikasi. Yang di deteksi Opisthorchis viverrine sedangkan yang real Trichuris trichiuras
+0992 Tidak terdeteksi
+1004 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+1005 Tidak terdeteksi
+1008 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1049 Tidak terdeteksi
+1070 Klasifikasi. Yang di deteksi double, Hymenolepis diminuta dgn Paragonimus spp, sedangkan real hanya Ascaris lumbricoides
+1075 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1086 Klasifikasi. Yang di deteksi Ascaris lumbricoides sedangkan yang real Hookworm egg
+1098 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1120 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+1121 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+1124 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Paragonimus spp
+1129 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Trichuris trichiuras
+1143 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1159 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1177 Lokalisasi.
+1184 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1199 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+1217 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real ada dua buah Paragonimus spp
+1231 Tidak terdeteksi
+1233 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1242 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1248 Tidak terdeteksi
+1257 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1258 Lokalisasi. Yang di deteksi double, Ascaris lumbricoides dgn Paragonimus spp, sedangkan real hanya Ascaris lumbricoides
+1259 Tidak terdeteksi
+1265 Tidak terdeteksi
+1276 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1283 Klasifikasi, Lokalisasi. Yang di deteksi double, Taenia spp. egg dan Opisthorchis viverrine, sedangkan real hanya Opisthorchis viverrine
+1291 Tidak terdeteksi
+1295 Tidak terdeteksi
+1297 Lokalisasi. Yang di deteksi double,Enterobius vermicularis dgn Paragonimus spp, sedangkan real hanya Paragonimus spp
+1322 Klasifikasi. Yang di deteksi Opisthorchis viverrine sedangkan yang real Trichuris trichiuras 
+1341 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Paragonimus spp
+1360 Tidak terdeteksi
+1365 KLasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras 
+1366 Lokalisasi. Yang di deteksi double, Hymenolepis nana  dgn Capillaria philippinensis, sedangkan real hanya Hymenolepis nana 
+1395 Lokalisasi. Yang di deteksi double, Opisthorchis viverrine dgn Opisthorchis viverrine, sedangkan real hanya satu buah Opisthorchis viverrine
+1451 Tidak terdeteksi
+1460 Klasifikasi. Yang di deteksi Hymenolepis hana sedangkan yang real Ascaris lumbricoides
+1461 Tidak terdeteksi
+1463 Klasifikasi. Yang di deteksi satu Capillaria philippinensis sedangkan yang real dua buah Capillaria philippinensis
+1478 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras 
+1493 Lokalisasi.  Yang di deteksi double,Enterobius vermicularis dgn Opisthorchis viverrine, sedangkan real hanya Opisthorchis viverrine
+1522 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1525 Lokalisasi. Yang di deteksi double, Hymenolepis diminuta dgn Ascaris lumbricoides, sedangkan real hanya Ascaris lumbricoides
+1545 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1547 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides
+1550 Klasifikasi. Yang di deteksi double, Ascaris lumbricoides dgn Paragonimus spp, sedangkan real hanya Hymenolepis nana 
+1581 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1584 Tidak terdeteksi
+1589 Lokalisasi. Yang di deteksi double, Capillaria philippinensis dgn Taenia spp. egg, sedangkan real hanya Capillaria philippinensis
+1599 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Hymenolepis nana 
+1609 Lokalisasi. Yang di deteksi double,Ascaris lumbricoides dgn Paragonimus spp, sedangkan real hanya Ascaris lumbricoides
+1614 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Hymenolepis nana 
+1620 Tidak terdeteksi
+1622 Lokalisasi. Yang di deteksi double, Ascaris lumbricoides dgn Ascaris lumbricoides, sedangkan real hanya ada satu buah Ascaris lumbricoides 
+1628 Tidak terdeteksi
+1630 Lokalisasi. Yang di deteksi double, Enterobius vermicularis dgn Enterobius vermicularis, sedangkan real hanya ada satu buah Enterobius vermicularis
+1648 Tidak terdeteksi
+1663 Klasifikasi. Yang di deteksi Paragonimus spp sedangkan yang real Ascaris lumbricoides 
+1675 Klasifikasi, Lokalisasi. Yang di deteksi double, Hymenolepis diminuta dgn Hymenolepis diminuta, sedangkan real hanya Hymenolepis nana 
+1676 Tidak terdeteksi
+1696 Klasifikasi. Yang di deteksi Opisthorchis viverrine sedangkan yang real Trichuris trichiuras 
+1722 Lokalisasi. Yang di deteksi Ascaris lumbricoides sedangkan yang real ada dua buah Ascaris lumbricoides 
+1734 Tidak terdeteksi
+1736 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Capillaria philippinensis
+1737 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides 
+1767 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+1789 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1796 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1798 Tidak terdeteksi
+1799 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Enterobius vermicularis
+1816 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+1828 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1836 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1841 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1852 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1855 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1875 Tidak terdeteksi
+1899 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Fasciolopsis buski
+1921 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1935 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Hymenolepis nana 
+1943 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1964 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+1970 Tidak terdeteksi
+1981 Tidak terdeteksi
+1991 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras 
+2005 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras 
+2021 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+2041 Lokalisasi. Yang di deteksi double, Enterobius vermicularis dgn Enterobius vermicularis, sedangkan real hanya ada satu Enterobius vermicularis
+2051 Tidak terdeteksi
+2071 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+2075 Tidak terdeteksi 
+2080 Klasifikasi. Yang di deteksi Enterobius vermicularis sedangkan yang real Enterobius vermicularis
+2095 Klasifikasi. Yang di deteksi Capillaria philippinensis sedangkan yang real Trichuris trichiuras 
+2097 Klasifikasi. Yang di deteksi Hymenolepis nana sedangkan yang real Ascaris lumbricoides
+2107 Tidak terdeteksi
+2119 Klasifikasi. Yang di deteksi Hymenolepis diminuta sedangkan yang real Ascaris lumbricoides
+2120 Klasifikasi. Yang di deteksi Enterobius vermicularis sedangkan yang real Hymenolepis nana 
+2195 Tidak terdeteksi
