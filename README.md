@@ -56,10 +56,14 @@ Optimizer 	: SGD
 
 ![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/2219e7a4-0663-42af-a60a-e2ec7807f5a5)
 
+Confusion Matrix
+![confusion_matrix](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/ea7ca45b-bfb6-4a1c-9680-6da66fdfeb4f)
+
 Annotation
-![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/c6a39b3f-2366-4afc-8272-1798948ce880)
+![val_batch0_labels](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/b9f81077-2911-4bc5-967b-9ddf98d4482b)
+
 Prediction
-![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/c0c16d03-8f4e-47df-bf86-70011691310f)
+![val_batch0_pred](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/8f850d2f-d841-4a94-9c36-081f29cddcfa)
 
 # Deploy to Web Streamlit
 ![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/057818a0-cccc-4e22-95c6-012622be2106)
