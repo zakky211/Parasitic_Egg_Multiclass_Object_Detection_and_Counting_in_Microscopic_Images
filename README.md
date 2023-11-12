@@ -28,9 +28,8 @@ category 8: Paragonimus spp
 category 9: Taenia spp. egg
 category 10: Trichuris trichiura
 Annotation Format : COCO JSON
-![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/de757185-95f8-4539-a6bb-25d14be2ecee)
 
-![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/65a508ba-6ac0-4596-9384-f4f51c6eca3a)
+![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/b4a8460b-5c44-46ac-9575-2e2c4c3e5cab)
 
 ## Data Preprocessing
 
