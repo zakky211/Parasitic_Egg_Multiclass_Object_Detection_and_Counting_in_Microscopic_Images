@@ -16,18 +16,18 @@ Dataset taken from :
 [Parasitic Egg Detection and Classification in Microscopic Images(ieee-dataport.org)](https://ieee-dataport.org/competitions/parasitic-egg-detection-and-classification-microscopic-images#files)
 
 Dataset contain 11 parasitic egg types, each has 1,000 images :
-category 0: Ascaris lumbricoides
-category 1: Capillaria philippinensis
-category 2: Enterobius vermicularis
-category 3: Fasciolopsis buski
-category 4: Hookworm egg
-category 5: Hymenolepis diminuta
-category 6: Hymenolepis nana
-category 7: Opisthorchis viverrine
-category 8: Paragonimus spp
-category 9: Taenia spp. egg
-category 10: Trichuris trichiura
-Annotation Format : COCO JSON
+- category 0: Ascaris lumbricoides
+- category 1: Capillaria philippinensis
+- category 2: Enterobius vermicularis
+- category 3: Fasciolopsis buski
+- category 4: Hookworm egg
+- category 5: Hymenolepis diminuta
+- category 6: Hymenolepis nana
+- category 7: Opisthorchis viverrine
+- category 8: Paragonimus spp
+- category 9: Taenia spp. egg
+- category 10: Trichuris trichiura
+- Annotation Format : COCO JSON
 
 ![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/b4a8460b-5c44-46ac-9575-2e2c4c3e5cab)
 
