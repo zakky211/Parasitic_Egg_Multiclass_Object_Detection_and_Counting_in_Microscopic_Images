@@ -33,8 +33,8 @@ Annotation Format : COCO JSON
 ![image](https://github.com/zakky211/Parasitic_Egg_Multiclass_Object_Detection_and_Counting_in_Microscopic_Images/assets/62234134/65a508ba-6ac0-4596-9384-f4f51c6eca3a)
 
 ## Data Preprocessing
-Dataset comes with default preprocessed images :
 
+Dataset comes with default preprocessed images :
 Apply Gaussian blur with a standard deviation between 0.0 - 3.0
 Crop each side by a random value from 0 to 30%
 Apply motion blur (10% of total images) with a random kernel size of 3- 35 pixels and orientation of 0-360 degree
